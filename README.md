@@ -11,18 +11,8 @@
 **AR:**  
 🚫 هذا المشروع **خاص**، ولا أسمح بـ **نسخه أو استخدامه أو إعادة نشره أو تعديله** إلا بعد الحصول على **إذن خطي مني**.
 
-> 🔒 All rights reserved © [YourName or GitHubUsername]  
+> 🔒 All rights reserved © [- X D -]  
 > ⚠️ Unauthorized use will be reported and action may be taken.
-
----
-
-## 📌 Summary | ملخص المشروع
-
-**EN:**  
-This is a commissioned **Friday Night Funkin'** mod project developed with care and creativity. It includes custom assets, unique mechanics, and original content.
-
-**AR:**  
-هذا مشروع **مود خاص للعبة FNF** تم تطويره بناءً على طلب خاص، ويحتوي على تصميمات مخصصة، وأفكار جديدة، ومحتوى حصري.
 
 ---
 
@@ -38,8 +28,6 @@ This project is not open-source. It is protected and not intended for public dis
 
 ## 📬 Contact | التواصل
 
-- 💌 Email: your@email.com  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-- 🧠 Discord: yourDiscord#1234 *(اختياري)*
+- Discord: [@trr0](https://discord.com/users/1282747277206884436)
 
 ---
